@@ -1,0 +1,6 @@
+name: Blossom
+main: com.flora.plugin.Main
+version: '${version}'
+api-version: '1.20'
+author: 'sukkot'
+load: STARTUP
